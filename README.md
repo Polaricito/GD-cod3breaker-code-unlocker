@@ -8,3 +8,5 @@ Instructions:
 3. Enter the numbers in the order they appear
 4. Copy the resulting code and paste it into the Vault of Secrets
 5. Done! Enjoy your new icon
+
+<img width="959" height="517" alt="image" src="https://github.com/user-attachments/assets/ea680db4-c67c-472a-8f9c-c7e00766f2bc" />
