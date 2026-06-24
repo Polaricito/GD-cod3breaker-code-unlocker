@@ -12,5 +12,6 @@ n3 = str(d - c)
 n4 = str(e - d)
 n5 = str(f - e)
 
-
 print('The code is:', n1 + n2 + n3 + n4 + n5, '\n')
+
+input('Press Enter to exit...')
