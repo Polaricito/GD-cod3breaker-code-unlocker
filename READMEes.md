@@ -6,15 +6,10 @@ Un script de Python para resolver el codigo de Geometry Dash: cod3breaker
 
 Instrucciones:
 1.Descargar la ultima version para tu plataforma
-
 2.Descomprimir y ejecutarlo
-
 3.Grabar los numeros que aparezcan (tambien los puedes escribir en algun lugar)
-
 4.Ingresa los numeros que hayan aparecido 
-
 5.Copia el codigo resultante y pegalo en el Vault of Secrets
-
 6.Listo! Disfruta tu nuevo icono
 
 
