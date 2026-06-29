@@ -1,5 +1,7 @@
 # GD-cod3breaker-code-unlocker
 
+[Español](https://github.com/Polaricito/GD-cod3breaker-code-unlocker/blob/main/READMEes.md)
+
 A Python script to solve the Geometry Dash puzzle: cod3breaker
 
 Instructions:
